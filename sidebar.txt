@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dgd:home|Door43 (dgd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dgd|d43-dgd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dgd/archive/master.zip|d43-dgd.zip]]
+
+**Recent Changes**
+{{changes>ns = dgd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dgd|Ethnologue data]]
+
